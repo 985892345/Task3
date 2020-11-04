@@ -1,5 +1,5 @@
 package Lv3;
 
-interface IInterface{
+interface Customer {
 	void getComputer(String s);
 }
