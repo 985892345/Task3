@@ -1,7 +1,7 @@
 package Lv3;
 
 public class JD implements Shop{
-	private String name = "京东";
+	private final String name = "京东";
 
 	@Override
 	public String getName() {
